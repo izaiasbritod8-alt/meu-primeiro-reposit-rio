@@ -1,6 +1,7 @@
  👋 Olá, eu sou **Izaias Santos**  
 🎸 Rockeiro alternativo | 📚 Nerd | 🎶 Fã de MPB | 🐍 Aprendendo Python  
 
+![blade](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3NHYwbmFrdm44d2JlMnNzMmRnd2t1amQ4aGd1NXhjcDN2NmJ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s0Ils0TIVZ5Fm/giphy.gif)
 ---
 
 ## 🕶️ Sobre mim
