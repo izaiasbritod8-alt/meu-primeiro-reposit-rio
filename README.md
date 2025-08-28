@@ -20,7 +20,7 @@
 - Manipulação de arquivos  
 
 ---
-[System Of A Down](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQyYzZ0eHdhNXB0cXJnaDgxaXNlMmhvaXpyOGY1NnZuZXN2Y2lqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ev1KF0JQPCNXO/giphy.gif)
+![System Of A Down](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQyYzZ0eHdhNXB0cXJnaDgxaXNlMmhvaXpyOGY1NnZuZXN2Y2lqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ev1KF0JQPCNXO/giphy.gif)
 ## 🚀 O que estou praticando agora
 - Pequenos scripts em Python  
 - Exercícios de lógica de programação  
