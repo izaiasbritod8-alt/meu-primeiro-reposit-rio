@@ -3,7 +3,7 @@
 
 ![blade](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHY3NHYwbmFrdm44d2JlMnNzMmRnd2t1amQ4aGd1NXhjcDN2NmJ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s0Ils0TIVZ5Fm/giphy.gif)
 ---
-
+![Tim Maia](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9qOXl4cnR4bHl5Mmo1b2ZoMnIwNWI5cTd4MWIycnAxenZxaHZ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZYDRRtRN9vvq/giphy.gif)
 ## 🕶️ Sobre mim
 - 🎓 Mestre em humanas, escritor de redações e poemas, além de programador também quero me tornar um escritor remunerado
 - 💻 Agora também escrevo linhas de código, aprendendendo a usar a línguagem da cobrinha
