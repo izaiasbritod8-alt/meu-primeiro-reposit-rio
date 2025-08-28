@@ -27,7 +27,7 @@
 - Projetos simples para consolidar aprendizado  
 
 ---
-
+![Nirvana](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkxeTlkdW1la2hhbWQ0YmF6NjhwOGxiNm5zeXh1dDRjdGNxcGVvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xAcZuBAdg0Rq/giphy.gif)
 ## 🛠️ Tecnologias que estou estudando
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
