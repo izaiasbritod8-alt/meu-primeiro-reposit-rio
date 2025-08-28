@@ -35,7 +35,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
+![homem-aranha](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW41cjczc3JrdGdqdGFnY3VwNjY4ZG5jZDVlM211eXYyZzFnM2V1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif)
 ## 🎯 Objetivos
 - Melhorar minha lógica de programação  
 - Construir projetos mais completos com Python  
