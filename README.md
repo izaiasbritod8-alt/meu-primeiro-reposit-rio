@@ -4,9 +4,9 @@
 ---
 
 ## 🕶️ Sobre mim
-- 🎓 Mestre em humanas, escritor de redações e poemas, além de programador também quero realizar meu sonho de ser um escritor
+- 🎓 Mestre em humanas, escritor de redações e poemas, além de programador também quero realizar meu sonho de ser um escritor no futuro
 - 💻 Agora também escrevo linhas de código, embora ainda tenha muito a aprender
-- 🤘 Adoro chacalhar a cabeça ouvindo NIrvana mas também curto relaxar ouvindo Tim Maia
+- 🤘 Adoro chacalhar a cabeça ouvindo Nirvana mas também curto relaxar ouvindo Tim Maia
 - 📖 Leitor ávido e fã da cultura nerd, sei desde cultura nacional até super-heróis
 
 ---
