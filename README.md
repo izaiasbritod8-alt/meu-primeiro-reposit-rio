@@ -11,7 +11,7 @@
 - 📖 Leitor ávido e fã da cultura nerd, conheço desde cultura nacional até ficção cíentifica
 
 ---
-
+![matrix](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpnaGh3Y3Y0eTN0d3R3eWQ4anUzMXU3ZGRzbWw5bWU3cWd1MWQ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif)
 ## 🐍 Aprendendo no momento
 - Sintaxe e variáveis  
 - Estruturas de decisão (`if`, `else`)  
