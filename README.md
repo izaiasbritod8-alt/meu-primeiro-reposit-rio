@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou **Izaias Santos**  
+ 👋 Olá, eu sou **Izaias Santos**  
 🎸 Rockeiro alternativo | 📚 Nerd | 🎶 Fã de MPB | 🐍 Aprendendo Python  
 
 ---
 
 ## 🕶️ Sobre mim
-- 🎓 Mestre em humanas, escritor de redações e poemas, além de programador também quero realizar meu sonho de ser um escritor no futuro
-- 💻 Agora também escrevo linhas de código, embora ainda tenha muito a aprender
-- 🤘 Adoro chacalhar a cabeça ouvindo Nirvana mas também curto relaxar ouvindo Tim Maia
-- 📖 Leitor ávido e fã da cultura nerd, sei desde cultura nacional até super-heróis
+- 🎓 Mestre em humanas, escritor de redações e poemas, além de programador também quero me tornar um escritor remunerado
+- 💻 Agora também escrevo linhas de código, aprendendendo a usar a línguagem da cobrinha
+- 🤘 Adoro rock, metal, rap e MPB e tudo quanto é som diferente, um verdadeiro eclético
+- 📖 Leitor ávido e fã da cultura nerd, conheço desde cultura nacional até ficção cíentifica
 
 ---
 
@@ -31,6 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -38,6 +39,7 @@
 - Melhorar minha lógica de programação  
 - Construir projetos mais completos com Python  
 - Aprender frameworks e bibliotecas (Flask, Django, Pandas, NumPy)  
+- Aprimorar habilidades com **Excel**  
 
 ---
 
@@ -45,3 +47,4 @@
 - 🎶 Música (rock alternativo & MPB)  
 - 📚 Literatura & poesia  
 - 🎮 Cultura nerd  
+
