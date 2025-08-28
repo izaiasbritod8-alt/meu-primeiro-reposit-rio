@@ -1,7 +1,17 @@
-# 👋 Olá, eu sou Izaias Santos, um rockeiro alternativo, nerd, leitor e fã de MPB
+# 👋 Olá, eu sou **Izaias Santos**  
+🎸 Rockeiro alternativo | 📚 Nerd | 🎶 Fã de MPB | 🐍 Aprendendo Python  
 
-🎓 Atualmente sou estudante, sou mestre em humanas mas além de redações e poemas agora também escrevo linhas de código e estou aprendendo **Python**.  
-💻 Estou dando meus primeiros passos no mundo da programação e explorando conceitos básicos como:  
+---
+
+## 🕶️ Sobre mim
+- 🎓 Mestre em humanas, escritor de redações e poemas, além de programador também quero realizar meu sonho de ser um escritor
+- 💻 Agora também escrevo linhas de código, embora ainda tenha muito a aprender
+- 🤘 Adoro chacalhar a cabeça ouvindo NIrvana mas também curto relaxar ouvindo Tim Maia
+- 📖 Leitor ávido e fã da cultura nerd, sei desde cultura nacional até super-heróis
+
+---
+
+## 🐍 Aprendendo no momento
 - Sintaxe e variáveis  
 - Estruturas de decisão (`if`, `else`)  
 - Laços de repetição (`for`, `while`)  
@@ -18,16 +28,20 @@
 ---
 
 ## 🛠️ Tecnologias que estou estudando
-- Python 🐍  
-- Git e GitHub  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Objetivos
+## 🎯 Objetivos
 - Melhorar minha lógica de programação  
 - Construir projetos mais completos com Python  
-- Aprender frameworks e bibliotecas (como Flask, Django, Pandas e NumPy) no futuro  
+- Aprender frameworks e bibliotecas (Flask, Django, Pandas, NumPy)  
 
 ---
 
-⭐️ Este é apenas o começo da minha jornada no mundo da programação!
+## 💡 Outros interesses
+- 🎶 Música (rock alternativo & MPB)  
+- 📚 Literatura & poesia  
+- 🎮 Cultura nerd  
