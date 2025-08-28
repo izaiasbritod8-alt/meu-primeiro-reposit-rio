@@ -47,5 +47,5 @@
 ## 💡 Outros interesses
 - 🎶 Música (rock alternativo & MPB)  
 - 📚 Literatura & poesia  
-- 🎮 Cultura nerd  
+- 🎮 Cultura nerd e otaku
 
