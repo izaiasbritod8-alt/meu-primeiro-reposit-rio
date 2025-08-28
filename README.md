@@ -43,7 +43,7 @@
 - Aprimorar habilidades com **Excel**  
 
 ---
-
+![Goku](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBoejF1YTc5b3g4c2Q2eXFlMmpvdG11dXhpajMyeG44c3FmanR3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DEyAFp5KzCXte/giphy.gif)
 ## 💡 Outros interesses
 - 🎶 Música (rock alternativo & MPB)  
 - 📚 Literatura & poesia  
